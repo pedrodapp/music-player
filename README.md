@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="MusicPlayer" src="./preview.jpg" width="100%">
+  <img alt="MusicPlayer" src="./preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
