@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Music Player desenvolvido durante o desafio #boraCodar da Rocketseat 💜
+Music Player desenvolvido como primeiro desafio #boraCodar da Rocketseat 💜
