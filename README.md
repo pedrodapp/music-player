@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -8,13 +8,13 @@
   <img alt="MusicPlayer" src="./preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 
-## 💻 Projeto
+## 💻 Project
 
-Music Player desenvolvido como primeiro desafio #boraCodar da Rocketseat 💜
+Music Player developed as Rocketseat's first #boraCodar challenge 💜
