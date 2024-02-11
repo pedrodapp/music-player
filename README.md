@@ -11,4 +11,4 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Music Player developed as Rocketseat's first #boraCodar challenge 💜
+Music Player developed as Rocketseat's #boraCodar challenge 💜
