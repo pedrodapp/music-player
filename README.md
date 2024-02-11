@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="">https://pedrodapp.github.io/music-player/<img alt="MusicPlayer" src="./preview.png" width="100%"></a>
+  <a href="https://pedrodapp.github.io/music-player/"><img alt="MusicPlayer" src="./preview.png" width="100%"></a>
 </p>
 
 ## 🚀 Technologies
