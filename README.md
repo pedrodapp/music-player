@@ -4,7 +4,7 @@
 
 ## 💻 Project
 
-Music Player developed as Rocketseat's #boraCodar challenge 💜
+Music Player developed as Rocketseat's challenge 💜
 
 ## 🚀 Technologies
 
