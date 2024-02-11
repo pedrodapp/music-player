@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pedrodapp.github.io/music-player/" target="blank"><img alt="MusicPlayer" src="./preview.png" width="100%"></a>
+  <a href="https://pedrodapp.github.io/music-player/" target="_blank"><img alt="MusicPlayer" src="./preview.png" width="100%"></a>
 </p>
 
 ## 🚀 Technologies
