@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-
-<p align="center">
   <a href="https://pedrodapp.github.io/music-player/" target="_blank"><img alt="MusicPlayer" src="./preview.png" width="100%"></a>
 </p>
 
