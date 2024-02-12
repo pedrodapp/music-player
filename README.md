@@ -4,7 +4,7 @@
 
 ## 💻 Project
 
-Music Player developed as Rocketseat's challenge 💜
+Music Player Interface developed as Rocketseat's challenge 💜
 
 ## 🚀 Technologies
 
